@@ -6,6 +6,4 @@ VERCEL READY — BIRTHDAY SURPRISE FOR ACHU
 4. Deploy. No database or environment variables are required.
 
 MUSIC:
-The website uses the official YouTube player for Regard - Ride It. The visitor clicks the heart to start the soundtrack. This avoids bundling or redistributing a copyrighted MP3.
-
-The reaction animations are built into the page: correct answers trigger two cartoon bunnies moving together into a hug; wrong answers trigger an angry/shaking bunny reaction.
+No background song is included in this version.
